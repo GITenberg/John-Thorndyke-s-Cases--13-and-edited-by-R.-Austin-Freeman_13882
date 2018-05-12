@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3551'
     url: http://www.gutenberg.org/2009/agents/3551
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13882#John-Thorndyke-s-Cases--13-and-edited-by-R.-Austin-Freeman
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2004-10-27'
 gutenberg_type: Text
